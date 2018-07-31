@@ -15,7 +15,7 @@ _This webpage is an intro to using HTML to create text and bullets._
 
 ## Support and contact details
 
-_Please contact Kate Goss or Eric Conner if you run into any issues or have questions, ideas or concerns. Feel free to make a contribution to the code.}_
+_Please contact Kate Goss or Eric Conner if you run into any issues or have questions, ideas or concerns. Feel free to make a contribution to the code._
 
 ## Technologies Used
 
